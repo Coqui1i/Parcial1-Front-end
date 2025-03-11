@@ -1,0 +1,16 @@
+.custom-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    gap: 20px;
+}
+.custom-card img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+}
+
